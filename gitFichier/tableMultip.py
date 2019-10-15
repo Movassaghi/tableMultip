@@ -1,5 +1,5 @@
 class TableMultiplication:
-
+# creer une table de modification
     def __init__(self, nb):
         self.nb = nb
 
@@ -8,5 +8,7 @@ class TableMultiplication:
             nouvell_term_table = self.nb* i
             print(nouvell_term_table)
 
-tab = TableMultiplication(3)
+tab = TableMultiplication(4)
+tab = TableMultiplication(5)
 tab.prochain()
+
