@@ -10,5 +10,6 @@ class TableMultiplication:
 
 tab = TableMultiplication(4)
 tab = TableMultiplication(5)
+tab = TableMultiplication(6)
 tab.prochain()
 
